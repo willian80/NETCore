@@ -1,0 +1,17 @@
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\NETCoreAssemblyLoad.csproj.CoreCompileInputs.cache
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\NETCoreAssemblyLoad.AssemblyInfoInputs.cache
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\NETCoreAssemblyLoad.AssemblyInfo.cs
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\NETCoreAssemblyLoad.exe
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\NETCoreAssemblyLoad.deps.json
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\NETCoreAssemblyLoad.runtimeconfig.json
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\NETCoreAssemblyLoad.runtimeconfig.dev.json
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\NETCoreAssemblyLoad.dll
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\NETCoreAssemblyLoad.pdb
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\NETCoreAssemblyLoad.csproj.CopyComplete
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\NETCoreAssemblyLoad.dll
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\NETCoreAssemblyLoad.pdb
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\NETCoreAssemblyLoad.genruntimeconfig.cache

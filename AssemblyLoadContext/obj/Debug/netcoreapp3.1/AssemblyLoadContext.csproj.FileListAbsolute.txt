@@ -1,0 +1,10 @@
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\AssemblyLoadContext.exe
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\AssemblyLoadContext.csprojAssemblyReference.cache
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\AssemblyLoadContext.AssemblyInfoInputs.cache
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\AssemblyLoadContext.AssemblyInfo.cs
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\AssemblyLoadContext.csproj.CopyComplete
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\github\AssemblyLoadContext\obj\Debug\netcoreapp3.1\AssemblyLoadContext.csproj.CoreCompileInputs.cache
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\github\AssemblyLoadContext\bin\Debug\netcoreapp3.1\System.Text.Json.dll
